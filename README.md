@@ -1,2 +1,1 @@
-# githubjenkins
-demo
+just for integration with jenkins
